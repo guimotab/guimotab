@@ -3,7 +3,7 @@
 
 - 🔭 Faço faculdade de Análise e Desenvolvimento de Sistemas.
 - 🌱 Eu estou aprendendo JavaScript, CSS e HTML.
-- 💪 Meu maior hobby é calistenia.
+- 💪 Meu hobby é calistenia.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
