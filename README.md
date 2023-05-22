@@ -15,6 +15,6 @@
 ##
 
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q](https://instagram.com/g._mota" target="_blank"><img alt="insta-img" height="50" src="https://cdn.discordapp.com/attachments/722803612224323605/1106050378291757138/instagram-round-color-icon.png" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q](https://instagram.com/g._mota" target="_blank"><img alt="insta-img" height="45" src="https://cdn.discordapp.com/attachments/722803612224323605/1106050378291757138/instagram-round-color-icon.png" target="_blank"></a>
 
 </div>
