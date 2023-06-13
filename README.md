@@ -2,7 +2,7 @@
 
 
 - 🔭 Faço faculdade de Análise e Desenvolvimento de Sistemas.
-- 🌱 Aprendendo JavaScript, CSS e HTML.
+- 🌱 Aprendendo JavaScript, CSS, HTML e Java
 - 💪 Meu hobby é calistenia.
 
 <div style="display: inline_block"><br>
