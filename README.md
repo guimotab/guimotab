@@ -1,8 +1,9 @@
 ## Opa, eu sou o Guilherme Mota 👋
 
 
-- 🔭 Faço faculdade de Análise e Desenvolvimento de Sistemas.
-- 🌱 Aprendendo JavaScript, CSS, HTML e Java
+- 📙 Estudante de Análise e Desenvolvimento de Sistemas.
+- 🌱 Conhecimento em JavaScript, CSS, HTML.
+- 🎓 Aprendendo Typescript e Java
 - 💪 Meu hobby é calistenia.
 
 <div style="display: inline_block"><br>
