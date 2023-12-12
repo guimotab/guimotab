@@ -1,7 +1,7 @@
 ## Opa, eu sou o Guilherme Mota 👋
 
 
-- 📙 Estudante de Análise e Desenvolvimento de Sistemas.
+- :computer:  Estudante de Análise e Desenvolvimento de Sistemas.
 - 📙 Programador Front-End.
 - 🌱 Conhecimento em JavaScript, Typescript, React, Tailwind, CSS, HTML e Git.
 - 🎓 Aprendendo Java.
