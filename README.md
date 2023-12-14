@@ -6,7 +6,7 @@
 - 🌱 Conhecimento em JavaScript, Typescript, React, Tailwind, CSS, HTML e Git.
 - 🎓 Aprendendo Java e MongoDb.
 
--:outbox_tray: <a href="https://portfolio-guimotab.vercel.app/">MEU pORTFÓLIO</a>
+- :outbox_tray: <a href="https://portfolio-guimotab.vercel.app/">MEU pORTFÓLIO</a>
 
 
 <div style="display: inline_block"><br>
