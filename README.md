@@ -4,7 +4,7 @@
 - :computer:  Estudante de Análise e Desenvolvimento de Sistemas.
 - 📙 Programador Front-End.
 - 🌱 Conhecimento em JavaScript, Typescript, React, Tailwind, CSS, HTML e Git.
-- 🎓 Aprendendo Java.
+- 🎓 Aprendendo Java e MongoDb.
 
 
 <div style="display: inline_block"><br>
@@ -14,7 +14,6 @@
   <img align="center" alt="Tail" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align="center" alt="Gui-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Gui-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Gui-Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
