@@ -20,6 +20,5 @@
 ##
 
 <div> 
-  <a href="https://instagram.com/g._mota" target="_blank"><img alt="insta-img" height="40" src="https://cdn.discordapp.com/attachments/722803612224323605/1106050378291757138/instagram-round-color-icon.png" target="_blank"></a>
 
 </div>
