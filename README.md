@@ -2,9 +2,8 @@
 
 
 - :computer:  Estudante de Análise e Desenvolvimento de Sistemas.
-- 📙 Programador Front-End.
-- 🌱 Conhecimento em JavaScript, Typescript, React, Tailwind, CSS, HTML e Git.
-- 🎓 Aprendendo Java e MongoDb.
+- 📙 Programador Full-Stack.
+- 🌱 Conhecimento em Java, JavaScript, Typescript, React, Angular, Tailwind, MongoDb e MySql e Git.
 
 
 <div style="display: inline_block"><br>
