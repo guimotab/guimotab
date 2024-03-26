@@ -3,7 +3,7 @@
 
 - :computer:  Estudante de Análise e Desenvolvimento de Sistemas.
 - 📙 Programador Full-Stack.
-- 🌱 Conhecimento em Java, JavaScript, Typescript, React, Angular, Tailwind, MongoDb e MySql e Git.
+- 🌱 Conhecimento em Java, JavaScript, Typescript, React, Angular, Tailwind, MongoDb, MySql, Postgre e Git.
 
 
 <div style="display: inline_block"><br>
