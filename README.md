@@ -1,8 +1,8 @@
 ## Opa, eu sou o Guilherme Mota 👋
 
 
-- :computer:  Estudante de Análise e Desenvolvimento de Sistemas.
-- 📙 Programador Full-Stack.
+- :computer:  Cursando Análise e Desenvolvimento de Sistemas.
+- 📙 Programador FullStack.
 - 🌱 Conhecimento em Java, JavaScript, Typescript, React, Angular, Tailwind, MongoDb, MySql, Postgre e Git.
 
 
